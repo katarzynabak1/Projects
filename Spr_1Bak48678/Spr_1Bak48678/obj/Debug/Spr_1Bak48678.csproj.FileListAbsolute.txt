@@ -1,0 +1,6 @@
+c:\users\kasiu\documents\visual studio 2015\Projects\Spr_1Bak48678\Spr_1Bak48678\bin\Debug\Spr_1Bak48678.exe.config
+c:\users\kasiu\documents\visual studio 2015\Projects\Spr_1Bak48678\Spr_1Bak48678\bin\Debug\Spr_1Bak48678.exe
+c:\users\kasiu\documents\visual studio 2015\Projects\Spr_1Bak48678\Spr_1Bak48678\bin\Debug\Spr_1Bak48678.pdb
+c:\users\kasiu\documents\visual studio 2015\Projects\Spr_1Bak48678\Spr_1Bak48678\obj\Debug\Spr_1Bak48678.csprojResolveAssemblyReference.cache
+c:\users\kasiu\documents\visual studio 2015\Projects\Spr_1Bak48678\Spr_1Bak48678\obj\Debug\Spr_1Bak48678.exe
+c:\users\kasiu\documents\visual studio 2015\Projects\Spr_1Bak48678\Spr_1Bak48678\obj\Debug\Spr_1Bak48678.pdb

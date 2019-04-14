@@ -1,0 +1,18 @@
+c:\users\kasiu\documents\visual studio 2015\Projects\Projekt3_Bak48678\Projekt3_Bak48678\bin\Debug\Projekt3_Bak48678.exe.config
+C:\Users\kasiu\Documents\Visual Studio 2015\Projects\Projekt3_Bak48678\Projekt3_Bak48678\bin\Debug\Projekt3_Bak48678.exe
+C:\Users\kasiu\Documents\Visual Studio 2015\Projects\Projekt3_Bak48678\Projekt3_Bak48678\bin\Debug\Projekt3_Bak48678.pdb
+C:\Users\kasiu\Documents\Visual Studio 2015\Projects\Projekt3_Bak48678\Projekt3_Bak48678\obj\Debug\Projekt3_Bak48678.csprojResolveAssemblyReference.cache
+C:\Users\kasiu\Documents\Visual Studio 2015\Projects\Projekt3_Bak48678\Projekt3_Bak48678\obj\Debug\Projekt3_Bak48678.Form1.resources
+C:\Users\kasiu\Documents\Visual Studio 2015\Projects\Projekt3_Bak48678\Projekt3_Bak48678\obj\Debug\Projekt3_Bak48678.Properties.Resources.resources
+C:\Users\kasiu\Documents\Visual Studio 2015\Projects\Projekt3_Bak48678\Projekt3_Bak48678\obj\Debug\Projekt3_Bak48678.csproj.GenerateResource.Cache
+C:\Users\kasiu\Documents\Visual Studio 2015\Projects\Projekt3_Bak48678\Projekt3_Bak48678\obj\Debug\Projekt3_Bak48678.exe
+C:\Users\kasiu\Documents\Visual Studio 2015\Projects\Projekt3_Bak48678\Projekt3_Bak48678\obj\Debug\Projekt3_Bak48678.pdb
+C:\Users\kasiu\Desktop\Projekty C#\Projekt3_Bak_48678\Projekt3_Bak48678\Projekt3_Bak48678\bin\Debug\Projekt3_Bak48678.exe.config
+C:\Users\kasiu\Desktop\Projekty C#\Projekt3_Bak_48678\Projekt3_Bak48678\Projekt3_Bak48678\obj\Debug\Projekt3_Bak48678.exe
+C:\Users\kasiu\Desktop\Projekty C#\Projekt3_Bak_48678\Projekt3_Bak48678\Projekt3_Bak48678\obj\Debug\Projekt3_Bak48678.pdb
+C:\Users\kasiu\Desktop\Projekty C#\Projekt3_Bak_48678\Projekt3_Bak48678\Projekt3_Bak48678\bin\Debug\Projekt3_Bak48678.exe
+C:\Users\kasiu\Desktop\Projekty C#\Projekt3_Bak_48678\Projekt3_Bak48678\Projekt3_Bak48678\bin\Debug\Projekt3_Bak48678.pdb
+C:\Users\kasiu\Desktop\Projekty C#\Projekt3_Bak_48678\Projekt3_Bak48678\Projekt3_Bak48678\obj\Debug\Projekt3_Bak48678.csprojResolveAssemblyReference.cache
+C:\Users\kasiu\Desktop\Projekty C#\Projekt3_Bak_48678\Projekt3_Bak48678\Projekt3_Bak48678\obj\Debug\Projekt3_Bak48678.Form1.resources
+C:\Users\kasiu\Desktop\Projekty C#\Projekt3_Bak_48678\Projekt3_Bak48678\Projekt3_Bak48678\obj\Debug\Projekt3_Bak48678.Properties.Resources.resources
+C:\Users\kasiu\Desktop\Projekty C#\Projekt3_Bak_48678\Projekt3_Bak48678\Projekt3_Bak48678\obj\Debug\Projekt3_Bak48678.csproj.GenerateResource.Cache

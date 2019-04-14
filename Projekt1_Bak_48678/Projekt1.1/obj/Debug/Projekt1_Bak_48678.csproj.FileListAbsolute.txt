@@ -1,0 +1,15 @@
+C:\Users\kasiu\Desktop\Projekt1.1\Projekt1.1\bin\Debug\Projekt1.1.exe.config
+C:\Users\kasiu\Desktop\Projekt1.1\Projekt1.1\obj\Debug\Projekt1.1.exe
+C:\Users\kasiu\Desktop\Projekt1.1\Projekt1.1\obj\Debug\Projekt1.1.pdb
+C:\Users\kasiu\Desktop\Projekt1_Bak_48678\Projekt1.1\bin\Debug\Projekt1.1.exe.config
+C:\Users\kasiu\Desktop\Projekt1_Bak_48678\Projekt1.1\obj\Debug\Projekt1.1.exe
+C:\Users\kasiu\Desktop\Projekt1_Bak_48678\Projekt1.1\obj\Debug\Projekt1.1.pdb
+C:\Users\kasiu\Desktop\Projekty C#\Projekt1_Bak_48678\Projekt1.1\bin\Debug\Projekt1.1.exe.config
+C:\Users\kasiu\Desktop\Projekty C#\Projekt1_Bak_48678\Projekt1.1\bin\Debug\Projekt1.1.exe
+C:\Users\kasiu\Desktop\Projekty C#\Projekt1_Bak_48678\Projekt1.1\bin\Debug\Projekt1.1.pdb
+C:\Users\kasiu\Desktop\Projekty C#\Projekt1_Bak_48678\Projekt1.1\obj\Debug\Projekt1_Bak_48678.csprojResolveAssemblyReference.cache
+C:\Users\kasiu\Desktop\Projekty C#\Projekt1_Bak_48678\Projekt1.1\obj\Debug\Projekt1._1.Projekt1.resources
+C:\Users\kasiu\Desktop\Projekty C#\Projekt1_Bak_48678\Projekt1.1\obj\Debug\Projekt1._1.Properties.Resources.resources
+C:\Users\kasiu\Desktop\Projekty C#\Projekt1_Bak_48678\Projekt1.1\obj\Debug\Projekt1_Bak_48678.csproj.GenerateResource.Cache
+C:\Users\kasiu\Desktop\Projekty C#\Projekt1_Bak_48678\Projekt1.1\obj\Debug\Projekt1.1.exe
+C:\Users\kasiu\Desktop\Projekty C#\Projekt1_Bak_48678\Projekt1.1\obj\Debug\Projekt1.1.pdb

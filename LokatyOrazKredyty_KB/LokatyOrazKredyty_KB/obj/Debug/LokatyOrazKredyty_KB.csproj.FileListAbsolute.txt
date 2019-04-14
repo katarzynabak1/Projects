@@ -1,0 +1,11 @@
+c:\users\kasiu\documents\visual studio 2015\Projects\LokatyOrazKredyty_KB\LokatyOrazKredyty_KB\bin\Debug\LokatyOrazKredyty_KB.exe.config
+c:\users\kasiu\documents\visual studio 2015\Projects\LokatyOrazKredyty_KB\LokatyOrazKredyty_KB\bin\Debug\LokatyOrazKredyty_KB.exe
+c:\users\kasiu\documents\visual studio 2015\Projects\LokatyOrazKredyty_KB\LokatyOrazKredyty_KB\bin\Debug\LokatyOrazKredyty_KB.pdb
+c:\users\kasiu\documents\visual studio 2015\Projects\LokatyOrazKredyty_KB\LokatyOrazKredyty_KB\obj\Debug\LokatyOrazKredyty_KB.csprojResolveAssemblyReference.cache
+c:\users\kasiu\documents\visual studio 2015\Projects\LokatyOrazKredyty_KB\LokatyOrazKredyty_KB\obj\Debug\LokatyOrazKredyty_KB.Lokaty.resources
+c:\users\kasiu\documents\visual studio 2015\Projects\LokatyOrazKredyty_KB\LokatyOrazKredyty_KB\obj\Debug\LokatyOrazKredyty_KB.Properties.Resources.resources
+c:\users\kasiu\documents\visual studio 2015\Projects\LokatyOrazKredyty_KB\LokatyOrazKredyty_KB\obj\Debug\LokatyOrazKredyty_KB.csproj.GenerateResource.Cache
+c:\users\kasiu\documents\visual studio 2015\Projects\LokatyOrazKredyty_KB\LokatyOrazKredyty_KB\obj\Debug\LokatyOrazKredyty_KB.exe
+c:\users\kasiu\documents\visual studio 2015\Projects\LokatyOrazKredyty_KB\LokatyOrazKredyty_KB\obj\Debug\LokatyOrazKredyty_KB.pdb
+C:\Users\kasiu\Documents\Visual Studio 2015\Projects\LokatyOrazKredyty_KB\LokatyOrazKredyty_KB\obj\Debug\LokatyOrazKredyty_KB.Kredyty.resources
+C:\Users\kasiu\Documents\Visual Studio 2015\Projects\LokatyOrazKredyty_KB\LokatyOrazKredyty_KB\obj\Debug\LokatyOrazKredyty_KB.PulpitStartowy.resources
